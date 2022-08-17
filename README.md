@@ -18,7 +18,7 @@ const aboutMe = {
       },
       databases: ["mySQL", "PSQL"]
    },
-   currentOccupation: "Teacher assistant at 4Geeks Academy, looking for keep learning and open for job opportunities"
+   currentOccupation: "Teacher assistant at 4Geeks Academy, looking to keep learning and open for job opportunities"
 };
 ````
 ### Where to find me 👀🔍
